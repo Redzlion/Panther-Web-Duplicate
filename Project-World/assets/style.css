@@ -1,0 +1,216 @@
+.navbar-custom {
+    color: #CC3333;
+    background-color: purple;
+    }
+ 
+ .btn-space {
+    margin-right: 10px;
+}
+.navbar-brand{
+	color: purple;
+	font-size: 30px;
+	font-family: "candara";
+}
+.nav-item:hover {
+  background-color: #2b164d;
+  border-radius: 5px;
+}
+a{
+	font-size: 18px;
+}
+.nav-link{
+	color: #FFFFFF;
+}
+.navbar-light{
+background-color: #020205;
+height: 95px;
+}
+.btn-custom2 {
+background-color: #403742;
+}
+.list-group-item{
+background-color: #020205;
+border-color: #7247E8;
+height: 50px;
+width: 100px;
+margin: 15px;
+
+}
+.list-group-item2{
+  background-color: #7247E8;
+  height: 50px;
+  width: 150px;
+  margin: 15px;
+  }
+.nav-link
+{
+  margin: 15px;
+}
+.custom-dropdown{
+  margin-left: 300px;
+}
+
+.btn-custom{
+  background-color:#7247E8 ;
+  margin-left: 350px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200px; 
+  height: 40px;
+}
+
+
+.listing{
+  margin-left: 350px;
+  margin-right: 350px;
+  font-size: 18px;
+  margin-top: 30px;
+}
+a{
+  text-decoration: none;
+}
+.normal-headings{
+   text-align: left;
+   font-size: 30px;
+   margin-left: 350px;
+   margin-right: 350px;
+   margin-top: 70px;
+  }
+li{
+    margin-top: 5px;
+}
+
+.logo-1{
+    padding-left: 40px;
+}
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+}
+.cst-color{
+    background-color:#020205 ;
+    height: 650px;
+}
+body{
+    background-color: #020205;
+    
+}
+.custom-p2{
+color:white ;
+margin-top: 280px;
+padding-left: 80px;
+font-size:35px;
+}
+.custom-p{
+    color: #adaabf;
+    padding-left: 80px;
+    text-align: left;
+    font-size: 20px;
+}
+.main-photo{
+    margin-left: 100px;
+}
+.cst-p{
+    color:white;
+    padding-left: 80px;
+    font-size: 25px;
+}
+body { background: linear-gradient(180deg, #020205 1500px, #1b1734 90px); 
+}
+.countries_sec_2{
+  width: 100%;
+  height: 1200px;
+  display: flex;
+  justify-content: center;
+  background-color: #1B1734;
+}
+
+.countries{
+  width: 90%;
+   height: 800px; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   padding: 140px 50px; 
+}
+
+.country-list-1{
+  padding-top: 300px;
+  color: white;
+  font-size: 17px;
+  padding-right: 55px;
+}
+.country-list-2{
+  padding-top: 360px;
+  color: white;
+  font-size: 17px;
+  padding-right: 55px;
+}
+.country-list-3{
+  padding-top: 450px;
+  color: white;
+  font-size: 17px;
+  padding-right: 75px;
+}
+.country-list-4{
+  padding-top: 580px;
+  color: white;
+  font-size: 17px;
+  padding-right: 85px;
+}
+.country-list-5{
+  padding-top: 570px;
+  color: white;
+  font-size: 17px;
+  padding-right: 55px;
+}
+.country-list-6{
+  padding-top: 210px;
+  color: white;
+  font-size: 17px;
+}
+hr{
+  height: 5px;
+  width: 85px;
+}
+
+.custom-h1 { background: linear-gradient(180deg, #020205 1500px, #1b1734 90px); 
+  
+}
+.last-h{
+  padding-left: 100px;
+  padding-top: 200px;
+  color: #FFFFFF;
+  
+}
+.last-p{
+  padding-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 200px;
+  color: #FFFFFF;
+}
+
+.custom-h1{
+  color: white;
+  padding-left: 500px;
+  font-size: 50px;
+  margin-bottom: 0px;
+  height: 350px;
+  padding-top: 90px;
+  font-size: 40px;
+}
+.button-main{
+  background-color: #7247E8;
+  padding: 10px 30px;
+  font-size: 15px;
+  border-radius: 5px;
+  margin-right: 15px;
+  height :60px; 
+  margin-left: 690px;
+  margin-bottom: 150px;
+}
+.hidden{
+  background: linear-gradient(180deg, #020205 1500px, #1b1734 90px);
+}
